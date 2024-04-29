@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: white;
+    width: 19rem;
+    border-radius: 0.8rem;
+    padding : 0.5rem;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.icon-background{
+    background-color: #E1F1ED;
+    padding: 8px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.referral-heading{
+    color: #0A966A
+}
+
+.main-section{
+    color: gray;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.learn-more-btn, .refer-again-btn{
+    padding: 1rem 1.5rem;
+    border-color: #0A966A;
+    background-color: white;
+    border-radius: 0.7rem;
+    font-size: medium;
+    margin: 0.5rem 0rem;
+}
+
+.refer-again-btn{
+    background-color: #0A966A;
+    color: white;
+    border: solid #0A966A;
+}
+
+.learn-more-btn{
+    color: #0A966A ;
+    border: solid;
+}
+
+
